@@ -274,28 +274,22 @@ python scripts/ingest.py
 Recommended important GitLab Handbook URLs:
 
 ```txt
+https://handbook.gitlab.com/
+https://handbook.gitlab.com/handbook/
 https://handbook.gitlab.com/handbook/company/mission/
 https://handbook.gitlab.com/handbook/values/
 https://handbook.gitlab.com/handbook/company/culture/all-remote/
 https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/
 https://handbook.gitlab.com/handbook/company/culture/all-remote/handbook-first/
 https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/
-https://handbook.gitlab.com/handbook/product/
-https://handbook.gitlab.com/handbook/engineering/
-https://handbook.gitlab.com/handbook/security/
+
+https://about.gitlab.com/direction/
+https://about.gitlab.com/direction/company/
+https://about.gitlab.com/direction/dev/
+https://about.gitlab.com/direction/ops/
+https://about.gitlab.com/direction/sec/
+https://about.gitlab.com/direction/data-science/
 ```
-
-For broader coverage, you can parse GitLab's sitemap and filter URLs under useful paths such as:
-
-```txt
-/handbook/company/
-/handbook/values/
-/handbook/people-group/
-/handbook/product/
-/handbook/engineering/
-/handbook/security/
-```
-
 ---
 
 ## ▶️ Run Backend Locally
