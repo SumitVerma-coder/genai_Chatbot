@@ -587,4 +587,4 @@ This chatbot improves access to GitLab's public knowledge base by allowing users
 
 ## 📜 License
 
-This project is for educational and assignment purposes.
+This project is licensed under the MIT License.
