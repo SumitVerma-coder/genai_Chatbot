@@ -7,6 +7,11 @@ from app.routes.users import router as users_router
 
 app = FastAPI(title="GitLab Handbook Chatbot API")
 
+origins = [
+    "http://localhost:5173",
+    "https://genai-chatbot-adkk.onrender.com",
+]
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
